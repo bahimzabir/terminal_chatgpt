@@ -2,6 +2,7 @@
 
 this shell scripte will downlaod and install a program that you can run in your zshell or bash command line. it support only macos MacOSx64  architecture.
 
+<img width="444" alt="Screen Shot 2023-04-08 at 4 27 39 AM" src="https://user-images.githubusercontent.com/86854620/230703426-b61f7b9a-4a42-4181-9515-78ee347b4112.png">
 
 
 # How to install
