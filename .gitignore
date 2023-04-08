@@ -1,6 +1,2 @@
-.apifile
-bot.c
-chatBot.sh
-gbtinstall.sh
-gpt.cpp
-.vscode/settings.json
+.vscode/
+src/
